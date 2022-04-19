@@ -1,0 +1,32 @@
+
+<!--
+Tanggal Pengerjaan : 19 April 2022
+NIM : 10118401
+Nama : Daffa Sacofi Mutawakkil
+Kelas : IF-6
+-->
+
+<resources>
+    <string name="app_name">10118401Latihan1</string>
+    <string name="name"><b>DigiTeam</b></string>
+    <string name="nama_user"><b>Dias Eka Fredianto, S.Kom, B.IT</b></string>
+    <string name="slogan">Digital Together Everyone Achieve More</string>
+    <string name="jabar_digi">Jabar Digital Service</string>
+    <string name="jam_kerja_header"><b>Jam Kerja Bulan Ini</b></string>
+    <string name="jam_kerja_bulan_ini"><b>Jam kerja kamu bulan ini: 130.53 Jam</b></string>
+    <string name="jam_kerja"><b>130.53 Jam</b></string>
+    <string name="jam_kerja_minimum">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="l_kamu"><b>Laporan Kamu</b></string>
+    <string name="maret"><b>Maret</b></string>
+    <string name="april"><b>April</b></string>
+    <string name="b_laporan">Buat Laporan</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="boking">Booking</string>
+    <string name="wiki">Wiki</string>
+    <string name="bidang">UI Designer</string>
+    <string name="checkin"><b>Checkin</b></string>
+    <string name="cek">123456789123456789123456789123456789123345</string>
+</resources>
